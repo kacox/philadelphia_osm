@@ -1,0 +1,18 @@
+References used for Project 3
+Kasey Cox
+May 2017
+-----------------------------------
+
+DOCUMENTATION
+https://docs.python.org/2/library/string.html
+https://docs.python.org/2/library/stdtypes.html
+
+DATA GOLD STANDARDS
+http://www.gis.co.clay.mn.us/usps.htm
+http://pe.usps.com/text/pub28/28c2_014.htm
+
+MISC
+https://www.youtube.com/watch?v=GoG8J576Kd0
+https://dba.stackexchange.com/questions/22813/mongodb-returning-the-points-nearest-to-a-location-with-distance
+https://developer.uber.com/
+https://developer.lyft.com/docs
