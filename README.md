@@ -8,9 +8,9 @@
 This project aims to take [OpenStreetMap](https://www.openstreetmap.org) data 
 for Philadelphia, Pennsylvania and do the following:
 
-+ Audit data's structure and constituents
++ Audit data's structure and constituents with Python
 + Clean, Export, then Import data to a local instance of MongoDB as a JSON 
-file
+file using Python
 + Query (investigate) the data using MongoDB
 
 The OSM file used in this project was obtained from 
